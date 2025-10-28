@@ -1,6 +1,7 @@
 # check_me
 
-![Screenshot_20251028-195419](https://github.com/user-attachments/assets/3427b70e-fd2a-447a-aa0a-e90a287548b1)
+<img width="487" height="1008" alt="image" src="https://github.com/user-attachments/assets/88c2f165-55e6-4811-bb25-e2716c0f9d9e" />
+
 
 
 
